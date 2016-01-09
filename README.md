@@ -10,4 +10,5 @@ Todo:
 error catching
 parse a text and replace words with the parts of speech using a website to find what part of speech the word belongs to.
 multiple file inputs, and user selection of which file to use.
+more parts of speech and variations of types of parts of speech.  Famous person, place to sleep etc.
 
